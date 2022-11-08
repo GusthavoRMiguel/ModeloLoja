@@ -1,4 +1,4 @@
-export function Timeline(props) {
+/*export function Timeline(props) {
   return(
     <li class="mb-2">
       <div class="flex items-center mb-1">
@@ -11,4 +11,4 @@ export function Timeline(props) {
       </div>
     </li>
   )
-}
+}*/
