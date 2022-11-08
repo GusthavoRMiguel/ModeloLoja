@@ -2,6 +2,7 @@ import Head from 'next/head'
 import Aside from './components/aside'
 import PageName from './components/pageName'
 import Card from './components/card'
+import Document from './_document'
 
 
 function Projects() {

@@ -5,6 +5,7 @@ import PageName from './components/pageName'
 import Personal from './components/personal'
 /*import { Timeline } from './components/timeline'*/
 import Card from './components/card'
+import Document from './_document'
 
 function About() {
   return (
@@ -40,7 +41,7 @@ function About() {
         </div>
         <div>
           <div className='grid justify-items-center col-span-2'>
-            <button class="block mt-8 mx-auto md:mx-0 text-2xl py-3 px-6 text-red-50 font-semibold rounded bg-indigo-700">Download Resume</button>
+            <button className="block mt-8 mx-auto md:mx-0 text-2xl py-3 px-6 text-red-50 font-semibold rounded bg-indigo-700">Download Resume</button>
           </div>
         </div>
         <div className='mt-10 mb-10'>
@@ -80,21 +81,7 @@ function About() {
                     <Card img="/img/certificados/intro-tailwind.jpg" icon="/img/icons8-tailwind.svg" title="Introdução ao Tailwind CSS" description="23/08/2022" />
                     <Card img="/img/certificados/js-async.jpg" icon="/img/icons8-javascript.svg" title="Fundamentos de JavaScript AssíncronoClone Netflix" description="05/07/2022" />
                     <Card img="/img/certificados/logica-essencial.jpg" icon="/img/icons8-dev.svg" title="Lógica de Programação Essencial" description="25/04/2022" />
-                    <Card img="/img/certificados/" icon="/img/icons8-kotlin.svg" title="Clone Netflix" description="00/00/2022" />
-                    <Card img="/img/certificados/" icon="/img/icons8-kotlin.svg" title="Clone Netflix" description="00/00/2022" />
-                    <Card img="/img/certificados/" icon="/img/icons8-kotlin.svg" title="Clone Netflix" description="00/00/2022" />
-                    <Card img="/img/certificados/" icon="/img/icons8-kotlin.svg" title="Clone Netflix" description="00/00/2022" />
-                    <Card img="/img/certificados/" icon="/img/icons8-kotlin.svg" title="Clone Netflix" description="00/00/2022" />
-                    <Card img="/img/certificados/" icon="/img/icons8-kotlin.svg" title="Clone Netflix" description="00/00/2022" />
-                    <Card img="/img/certificados/" icon="/img/icons8-kotlin.svg" title="Clone Netflix" description="00/00/2022" />
-                    <Card img="/img/certificados/" icon="/img/icons8-kotlin.svg" title="Clone Netflix" description="00/00/2022" />
-                    <Card img="/img/certificados/" icon="/img/icons8-kotlin.svg" title="Clone Netflix" description="00/00/2022" />
-                    <Card img="/img/certificados/" icon="/img/icons8-kotlin.svg" title="Clone Netflix" description="00/00/2022" />
-                    <Card img="/img/certificados/" icon="/img/icons8-kotlin.svg" title="Clone Netflix" description="00/00/2022" />
-                    <Card img="/img/certificados/" icon="/img/icons8-kotlin.svg" title="Clone Netflix" description="00/00/2022" />
-                    <Card img="/img/certificados/" icon="/img/icons8-kotlin.svg" title="Clone Netflix" description="00/00/2022" />
-                    <Card img="/img/certificados/" icon="/img/icons8-kotlin.svg" title="Clone Netflix" description="00/00/2022" />
-                    
+                    <Card img="/img/image-1.jpg/" icon="/img/icons8-kotlin.svg" title="Clone Netflix" description="00/00/2022" />                  
                   </div>
                 
               </div>
