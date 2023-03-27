@@ -1,5 +1,5 @@
 {
-  "name": "gusthavo-rmiguel",
+  "name": "modelo-loja",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -9,6 +9,8 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@headlessui/react": "^1.7.13",
+    "@heroicons/react": "^2.0.16",
     "axios": "^0.27.2",
     "babel-cli": "^6.26.0",
     "babel-preset-react-app": "^3.1.2",
