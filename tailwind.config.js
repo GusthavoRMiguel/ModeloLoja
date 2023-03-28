@@ -4,6 +4,9 @@ module.exports = {
   darkMode: false, // or 'media' or 'class'
   theme: {
     extend: {
+      backgroundImage:{
+      "tela-fundo":"url('/img/teladefundo.jpg')",
+    },
     },
     fontFamily: {
       'sans': ['Roboto',],
