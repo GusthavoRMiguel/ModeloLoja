@@ -16,7 +16,7 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <NavBar />        
-      <div className='bg-[url("/img/teladefundo.jpg")] h-full bg-cover bg-center'>
+      <div className='bg-tela-fundo bg-cover object-cover bg-center h-full w-full'>
       <div className='h-96 mt-32 mx-3 text-center'>
           <div className=' pb-4'>
             <h1>
