@@ -1,6 +1,6 @@
 import Head from 'next/head'
-import Footer from './components/footer'
-import NavBar from './components/navBar'
+import Footer from '../components/footer'
+import NavBar from '../components/navBar'
 
 function About() {
   return (

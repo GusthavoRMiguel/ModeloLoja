@@ -1,7 +1,7 @@
 import Head from 'next/head'
-import NavBar from './components/navBar'
-import Card from './components/card'
-import Footer from './components/footer'
+import NavBar from '../components/navBar'
+import Card from '../components/card'
+import Footer from '../components/footer'
 import Document from './_document'
 
 

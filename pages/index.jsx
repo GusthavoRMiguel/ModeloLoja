@@ -1,8 +1,8 @@
 import Head from 'next/head';
 import React, { useEffect, useState } from "react";
-import Footer from './components/footer';
-import NavBar from './components/navBar';
-import CardText from './components/cardText';
+import Footer from '../components/footer';
+import NavBar from '../components/navBar';
+import CardText from '../components/cardText';
 
 
 

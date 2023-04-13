@@ -6,8 +6,8 @@ import { useForm } from 'react-hook-form';
 import * as yup from "yup";
 import { yupResolver } from "@hookform/resolvers/yup";
 import axios from 'axios';
-import NavBar from './components/NavBar';
-import Footer from './components/Footer';
+import NavBar from '../components/NavBar';
+import Footer from '../components/Footer';
 
 
 function Contact() {
