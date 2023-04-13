@@ -5,7 +5,7 @@ module.exports = {
   theme: {
     extend: {
       backgroundImage:{
-      "tela-fundo":"url('/img/teladefundo.jpg')",
+      "tela-fundo":"linear-gradient(to  bottom, rgba(26, 102, 101, 0.9), rgba(0, 128, 128, 0.0)), url('/img/teladefundo.jpg')"
     },
     },
     fontFamily: {
